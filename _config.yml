@@ -1,7 +1,7 @@
 name: Etch and Mallet
 favicon: null
-layout_spectrum: 0.25148
-typography_spectrum: 0.83965
+layout_spectrum: 0
+typography_spectrum: 0.52002
 title: Etch and Mallet
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#5b5650'
-    - '#6c99b4'
-    - '#000000'
-    - '#fdd530'
-    - '#bb871d'
-  brandStrength: 0.08743748068809509
-  lightness: 0.5
-  saturation: 0.5
+    - '#383838'
+    - '#eaeaea'
+    - '#a2a2a2'
+    - '#696969'
+    - '#cbcbcb'
+  brandStrength: 1
+  lightness: 0.3125
+  saturation: 0.25
   rhythmicContrast: 0.75
 purpose: []
