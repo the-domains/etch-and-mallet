@@ -1,0 +1,28 @@
+name: Etch and Mallet
+favicon: null
+layout_spectrum: 0.8663965254090726
+typography_spectrum: 0.8883632239885628
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.08743748068809509
+  lightness: 0.9083743703085929
+  saturation: 0.6871394377667457
+  rhythmicContrast: 0.2490052559878677
+purpose: []
