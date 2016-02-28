@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: etchandmallet.etsy.com
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-28T23:41:08.187Z'
-dateModified: '2016-02-28T23:40:51.328Z'
+datePublished: '2016-02-28T23:43:27.614Z'
+dateModified: '2016-02-28T23:43:20.841Z'
 title: Handcrafted goods with modern rustic charm
 author: []
 sourcePath: _posts/2016-02-28-about-etch-and-mallet.md
@@ -19,10 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+_type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e3d8850-dc07-4d2c-a8b1-e1b392b2bee2.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/74317b36b3b8cbf2f108dad882c226b60d82ac33.jpg)
 
 # Handcrafted goods with modern rustic charm
 
